@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Chrisna.Meas/Desktop/payslip/payslip.csproj": {}
+    "/Users/Chrisna.Meas/Desktop/PaySlip/payslip.csproj": {}
   },
   "projects": {
-    "/Users/Chrisna.Meas/Desktop/payslip/payslip.csproj": {
+    "/Users/Chrisna.Meas/Desktop/PaySlip/payslip.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Chrisna.Meas/Desktop/payslip/payslip.csproj",
+        "projectUniqueName": "/Users/Chrisna.Meas/Desktop/PaySlip/payslip.csproj",
         "projectName": "payslip",
-        "projectPath": "/Users/Chrisna.Meas/Desktop/payslip/payslip.csproj",
+        "projectPath": "/Users/Chrisna.Meas/Desktop/PaySlip/payslip.csproj",
         "packagesPath": "/Users/Chrisna.Meas/.nuget/packages/",
-        "outputPath": "/Users/Chrisna.Meas/Desktop/payslip/obj/",
+        "outputPath": "/Users/Chrisna.Meas/Desktop/PaySlip/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/Chrisna.Meas/.nuget/NuGet/NuGet.Config"

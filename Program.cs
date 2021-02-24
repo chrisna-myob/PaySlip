@@ -20,27 +20,41 @@ namespace payslip
 
             Console.Write("Please enter your annual salary: ");
             string salaryString = Console.ReadLine();
-            decimal salary = Convert.ToDecimal(salaryString);
-            if (salary < 0) {
-                salary = 0;
+            decimal salary;
+            bool salaryOutcome = Decimal.TryParse(salaryString, out salary);
+            if (!salaryOutcome || salary < 0) 
+            {
+                Console.WriteLine("Invalid Salary");
+                return;
             }
 
             Console.Write("Please enter your super rate: ");
             string superRateString = Console.ReadLine();
             int superRate;
             bool outcome = Int32.TryParse(superRateString, out superRate);
-            if (!outcome || superRate < 0) {
-                superRate = 0;
+            if (!outcome || superRate < 0 || superRate > 50) 
+            {
+                Console.WriteLine("Super rate must be between 0 - 50");
+                return;
             }
 
             Console.Write("Please enter your payment start date: ");
             string start = Console.ReadLine();
-            DateTime startDate = DateTime.Parse(start);
+            DateTime startDate;
+            if (!DateTime.TryParse(start, out startDate))
+            {
+                Console.WriteLine("Invalid Date");
+                return;
+            }
 
             Console.Write("Please enter your payment end date: ");
             string end = Console.ReadLine();
-
-            DateTime endDate = DateTime.Parse(end);
+            DateTime endDate;
+            if (!DateTime.TryParse(start, out endDate))
+            {
+                Console.WriteLine("Invalid Date");
+                return;
+            }
 
             Console.Write("\n");
 
