@@ -1,0 +1,15 @@
+/Users/Chrisna.Meas/Desktop/BasicPaySlip/obj/Debug/net5.0/BasicPaySlip.csprojAssemblyReference.cache
+/Users/Chrisna.Meas/Desktop/BasicPaySlip/obj/Debug/net5.0/BasicPaySlip.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Chrisna.Meas/Desktop/BasicPaySlip/obj/Debug/net5.0/BasicPaySlip.AssemblyInfoInputs.cache
+/Users/Chrisna.Meas/Desktop/BasicPaySlip/obj/Debug/net5.0/BasicPaySlip.AssemblyInfo.cs
+/Users/Chrisna.Meas/Desktop/BasicPaySlip/obj/Debug/net5.0/BasicPaySlip.csproj.CoreCompileInputs.cache
+/Users/Chrisna.Meas/Desktop/BasicPaySlip/bin/Debug/net5.0/BasicPaySlip.deps.json
+/Users/Chrisna.Meas/Desktop/BasicPaySlip/bin/Debug/net5.0/BasicPaySlip.runtimeconfig.json
+/Users/Chrisna.Meas/Desktop/BasicPaySlip/bin/Debug/net5.0/BasicPaySlip.runtimeconfig.dev.json
+/Users/Chrisna.Meas/Desktop/BasicPaySlip/bin/Debug/net5.0/BasicPaySlip.dll
+/Users/Chrisna.Meas/Desktop/BasicPaySlip/bin/Debug/net5.0/ref/BasicPaySlip.dll
+/Users/Chrisna.Meas/Desktop/BasicPaySlip/bin/Debug/net5.0/BasicPaySlip.pdb
+/Users/Chrisna.Meas/Desktop/BasicPaySlip/obj/Debug/net5.0/BasicPaySlip.dll
+/Users/Chrisna.Meas/Desktop/BasicPaySlip/obj/Debug/net5.0/ref/BasicPaySlip.dll
+/Users/Chrisna.Meas/Desktop/BasicPaySlip/obj/Debug/net5.0/BasicPaySlip.pdb
+/Users/Chrisna.Meas/Desktop/BasicPaySlip/obj/Debug/net5.0/BasicPaySlip.genruntimeconfig.cache

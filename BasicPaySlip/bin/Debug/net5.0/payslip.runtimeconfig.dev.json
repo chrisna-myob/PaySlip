@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/Chrisna.Meas/.dotnet/store/|arch|/|tfm|",
+      "/Users/Chrisna.Meas/.nuget/packages"
+    ]
+  }
+}
